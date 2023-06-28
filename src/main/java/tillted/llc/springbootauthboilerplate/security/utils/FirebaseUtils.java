@@ -20,7 +20,6 @@ public class FirebaseUtils {
 
     private static final String AUTH_HEADER = "Authorization";
     private static final String ENV_FIREBASE_CONFIG_PATH = "FIREBASE_CONFIG_PATH";
-    private static final String ENV_FIREBASE_DATABASE_URL = "FIREBASE_DATABASE_URL";
 
     private static String GOOGLE_APP_CREDENTIALS = null;
     static {
@@ -30,8 +29,6 @@ public class FirebaseUtils {
             e.printStackTrace();
         }
     }
-
-    public static final String DATABASE_URL = System.getenv(ENV_FIREBASE_DATABASE_URL);
 
     public static void init() {
         try {
