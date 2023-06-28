@@ -1,7 +1,10 @@
-# Spring Boot, Firebase Auth, Redis
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="200px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="200"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="200px"/>
+# Spring Boot, Firebase Authentication, Redis
+
+<div style="display: inline">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="75px"/>
+</div>
 
 ### Why
 Spring Boot security offers significant benefits, yet there is a prevailing desire to avoid redundant efforts. 
